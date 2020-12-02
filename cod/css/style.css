@@ -1,0 +1,115 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.container {
+  margin-top: 10px;
+}
+
+.header {
+  width: 100%;
+  height: 75px;
+  background-color: #3367D6;
+}
+
+.serch_box {
+  margin-left: 25px;
+  max-width: 75px;
+  max-height: 75px;
+}
+.serch_box > a > img {
+  width: 100%;
+  height: 100%;
+}
+
+.index_cont {
+  background-color: #E1E1E1;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 20px;
+}
+
+.history_box {
+  background-color: #E1E1E1;
+  border-radius: 10px;
+  padding-left: 10px;
+  margin-top: 20px;
+  padding-top: 3px;
+  padding-bottom: 1px;
+  font-weight: 900px;
+  font-size: 25px;
+}
+
+.container {
+  margin-bottom: 20px;
+}
+
+.option_box_limit {
+  background-color: #E1E1E1;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-top: 5px;
+}
+
+.option_btn {
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #007BFF;
+  cursor: pointer;
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 15px;
+  color: white;
+  border: 1px solid black;
+}
+
+.option_cont {
+  background-color: #E1E1E1;
+  border-radius: 5px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-top: 20px;
+}
+
+.valute_opstion {
+  margin-top: 10px;
+  margin-left: 30px;
+}
+
+.valuta {
+  margin-right: 30px;
+}
+
+.toggle {
+  background-color: white;
+  border: 1px solid black;
+  padding-right: 5px;
+  position: absolute;
+  margin-left: 100px;
+}
+
+.limit_historys {
+  height: 30px;
+  width: 70px;
+  margin-top: 20px;
+}
+
+.lable {
+  position: absolute;
+  margin-top: -13px;
+}
+
+.checkbox {
+  width: 25px;
+  height: 25px;
+  margin-top: 7px;
+  position: absolute;
+  margin-left: 100px;
+}

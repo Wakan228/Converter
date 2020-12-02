@@ -1,0 +1,57 @@
+.option_box_limit{
+	background-color:#E1E1E1;
+	border-radius: 5px;
+
+	padding-left: 10px;
+	padding-top: 5px;
+}
+.option_btn{
+	padding:5px;
+	border-radius:5px;
+	background-color:#007BFF;
+	cursor:pointer;
+	position:absolute;
+	margin-left: 100px;
+	margin-top:15px;
+	color:white;
+	border:1px solid black;
+
+}
+.option_cont{
+	background-color:#E1E1E1;
+	border-radius:5px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-top: 20px;
+
+}
+.valute_opstion{
+	margin-top: 10px;
+	margin-left:30px;
+}
+.valuta{
+	margin-right: 30px;
+}
+.toggle{
+	background-color:white;
+	border:1px solid black;
+	padding-right: 5px;
+	position: absolute;
+	margin-left: 100px;
+}
+.limit_historys{
+	height: 30px;
+	width: 70px;
+	margin-top: 20px;
+}
+.lable{
+	position:absolute;
+	margin-top: -13px;
+}
+.checkbox{
+	width:25px;
+	height: 25px;
+	margin-top: 7px;
+	position:absolute;
+	margin-left: 100px;
+}
